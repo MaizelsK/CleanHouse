@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanHouse.PersistancyLayer", "CleanHouse.PersistancyLayer\CleanHouse.PersistancyLayer.csproj", "{F2688238-879C-431B-9F17-839E543B2904}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanHouse.Api", "CleanHouse.Api\CleanHouse.Api.csproj", "{2EA67B1F-B9C5-45A8-910C-A48FEEE2AB7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2688238-879C-431B-9F17-839E543B2904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2688238-879C-431B-9F17-839E543B2904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2688238-879C-431B-9F17-839E543B2904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2688238-879C-431B-9F17-839E543B2904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA67B1F-B9C5-45A8-910C-A48FEEE2AB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA67B1F-B9C5-45A8-910C-A48FEEE2AB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA67B1F-B9C5-45A8-910C-A48FEEE2AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA67B1F-B9C5-45A8-910C-A48FEEE2AB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB7A799-1C92-4658-B0D6-E61E7F27F3EC}
+	EndGlobalSection
+EndGlobal
